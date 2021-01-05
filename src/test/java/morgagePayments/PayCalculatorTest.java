@@ -1,21 +1,18 @@
 package morgagePayments;
 
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.*;
 
-class PayCalculatorTest {
+public class PayCalculatorTest {
 
-    @BeforeEach
-    void setUp() {
+    @Test
+    public void main() throws Exception {
+        fail("This test has yet not been implemented");
     }
 
     @Test
-    void main() {
-    }
-
-    @Test
-    void power() {
+    public void power() throws Exception{
+        fail("This test has yet not been implemented");
     }
 }
